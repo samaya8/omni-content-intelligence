@@ -1,0 +1,10 @@
+tensorflow>=2.15.0
+torch>=2.2.0
+transformers>=4.38.0
+pandas>=2.0.0
+numpy>=1.24.0
+nltk>=3.8.0
+Pillow>=10.0.0
+streamlit>=1.30.0
+pytest>=8.0.0
+pytest-cov>=4.1.0

@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.pytest_cache/
+.ipynb_checkpoints/
+.cache/
+.coverage
+htmlcov/
+huggingface/
+
+# Large model weights and checkpoints
+*.h5
+*.keras
+*.ckpt
+*.pt
+*.bin
+model_weights/
+
+# Datasets
+data/raw/
+*.csv
+flickr8k/
+
+# Environments
+.env
+.env.*
+venv/
+.venv/
+env/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
